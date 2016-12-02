@@ -1,0 +1,9 @@
+c:\users\wd\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\bin\Debug\CA_CPU_project.exe
+c:\users\wd\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\bin\Debug\CA_CPU_project.pdb
+c:\users\wd\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Debug\CA_CPU_project.csprojResolveAssemblyReference.cache
+c:\users\wd\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Debug\CA_CPU_project.Properties.Resources.resources
+c:\users\wd\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Debug\CA_CPU_project.csproj.GenerateResource.Cache
+c:\users\wd\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Debug\CA_CPU_project.exe
+c:\users\wd\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Debug\CA_CPU_project.pdb
+C:\Users\WD\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Debug\CA_CPU_project.Main.resources
+C:\Users\WD\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Debug\CA_CPU_project.ResultForm.resources

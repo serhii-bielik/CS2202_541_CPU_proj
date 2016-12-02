@@ -1,0 +1,8 @@
+C:\Users\WD\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\bin\Release\CA_CPU_project.exe
+C:\Users\WD\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\bin\Release\CA_CPU_project.pdb
+C:\Users\WD\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Release\CA_CPU_project.Main.resources
+C:\Users\WD\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Release\CA_CPU_project.Properties.Resources.resources
+C:\Users\WD\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Release\CA_CPU_project.ResultForm.resources
+C:\Users\WD\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Release\CA_CPU_project.csproj.GenerateResource.Cache
+C:\Users\WD\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Release\CA_CPU_project.exe
+C:\Users\WD\documents\visual studio 2015\Projects\CA_CPU_project\CA_CPU_project\obj\Release\CA_CPU_project.pdb
